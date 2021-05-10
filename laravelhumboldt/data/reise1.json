@@ -1,1 +1,1 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"properties":{"ContentHeader":"Paris","Content":"Frankreich","Date":null,"desc":"Klaus"},"geometry":{"type":"Point","coordinates":["2.548828","48.764397"]}}}]}
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"geometry":{"type":"Point","coordinates":["2.329102","48.764397"]}}}]}
