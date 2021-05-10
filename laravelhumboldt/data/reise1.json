@@ -1,1 +1,1 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"properties":{"ContentHeader":null,"Content":null,"Date":null},"geometry":{"type":"Point","coordinates":["2.329102","48.995597"]}}}]}
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"properties":{"ContentHeader":"Paris","Content":"Bla","Date":"1900-11-11"},"geometry":{"type":"Point","coordinates":["2.15332","48.70643"]}}}]}
