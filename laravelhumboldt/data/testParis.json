@@ -1,1 +1,1 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":["2.241211","48.822297"]}}]}
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":["2.416992","48.764397"]}},{"type":"Feature","geometry":{"type":"Point","coordinates":["4.833984","45.845128"]}},{"type":"Feature","properties":{"name":"Coors Field","amenity":"Baseball Stadium","popupContent":"This is where the Rockies play!"},"geometry":{"type":"Point","coordinates":["-104.99404","39.75621"]}}]}
