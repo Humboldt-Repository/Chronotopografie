@@ -1,1 +1,1 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":["2.285156","48.677421"]}},{"type":"Feature","geometry":{"type":"Point","coordinates":["4.438477","45.997979"]}},{"type":"Feature","geometry":{"type":"Point","coordinates":["4.438477","45.997979"]}}]}
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"ContentHeader":null,"Content":null,"Date":null},"geometry":{"type":"Point","coordinates":["47.681169","-16.21582"]}}]}
