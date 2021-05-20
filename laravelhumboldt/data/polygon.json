@@ -1,1 +1,1 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"ContentHeader":"Stadt eingeben","Content":"Inhalte eingeben","Date":"Datum ein geben"},"geometry":{"type":"Polygon"}}]}
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"ContentHeader":"Stadt eingeben","Content":"Inhalte eingeben","Date":"Datum ein geben"},"geometry":{"type":"Polygon","coordinates":[[["100","0"],["101","0"],["101","1"],["100","1"],["100","0"]]]}}]}
