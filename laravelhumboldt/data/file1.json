@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"id":"geoname","radius":"1","dashArray":"0","color":"blue","ContentHeader":null,"Content":null,"Date":null},"geometry":{"type":"LineString","coordinates":[["0.615234","47.414212"],["1.142578","46.150409"],["1.274414","44.763377"],["0.703125","43.597367"]]}}]}
